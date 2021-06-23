@@ -28,9 +28,9 @@ Deployment
 Authors
 👤 Sully El-kelani
 
-GitHub: @bettercallsully
-Twitter: @bettrcallsully
-LinkedIn: LinkedIn
+- GitHub: [@bettercallsully](https://github.com/bettercallsully)
+- Twitter: [@bettrcallsully](https://twitter.com/bettrcallsully)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/solomonelkelani)
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
