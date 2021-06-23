@@ -31,17 +31,16 @@ Authors
 - GitHub: [@bettercallsully](https://github.com/bettercallsully)
 - Twitter: [@bettrcallsully](https://twitter.com/bettrcallsully)
 - LinkedIn: [Sully's Linkedin Profile](https://linkedin.com/in/solomonelkelani)
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+- 🤝 Contributing
+- Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+- Feel free to check the issues page.
 
-Show your support
-Give a ⭐️ if you like this project!
+- Show your support
+- Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-📝 License
-This project is MIT licensed.
+- Acknowledgments
+- Hat tip to anyone whose code was used
+- Inspiration
+- 📝 License
+- This project is MIT licensed.
