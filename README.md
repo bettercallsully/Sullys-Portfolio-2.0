@@ -2,7 +2,7 @@ Sully's Portfolio 2.0 😍
 
 This is a 2.0 version of the Portfolio project that im working on to showcase my skills as a developer 😎 
 
-[![portfolioscreenshot.png](https://i.postimg.cc/pV4KKfDq/portfolioscreenshot.png)](https://postimg.cc/grywW6tZ)
+[![portfolioscreenshot.png](https://i.postimg.cc/0ywxXJHk/portfolioscreenshot.png)](https://postimg.cc/WdTQhtvC)
 
 Sully's Portfolio
 Built With
