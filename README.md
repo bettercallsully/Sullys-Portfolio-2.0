@@ -6,12 +6,12 @@ This is a 2.0 version of the Portfolio project that im working on to showcase my
 
 Sully's Portfolio
 Built With
-HTML :astronaut:
-CSS :apple:
-SCSS :artist:
-JAVASCRIPT :alien:
-LOVE ❤️ 
-Live Demo
+1. HTML :astronaut:
+2. CSS :apple:
+3. SCSS :artist:
+4. JAVASCRIPT :alien:
+5. LOVE ❤️ 
+
 Live Demo Link
 
 Getting Started
