@@ -19,19 +19,19 @@ Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-👤 Sully El-kelani
+- Prerequisites
+- Setup
+- Install
+- Usage
+- Run tests
+- Deployment
+- Authors
+👤 Sully El-kelani 🤝 Contributing
 
 - GitHub: [@bettercallsully](https://github.com/bettercallsully)
 - Twitter: [@bettrcallsully](https://twitter.com/bettrcallsully)
 - LinkedIn: [Sully's Linkedin Profile](https://linkedin.com/in/solomonelkelani)
-- 🤝 Contributing
+
 - Contributions, issues, and feature requests are welcome!
 
 - Feel free to check the issues page.
@@ -42,5 +42,6 @@ Authors
 - Acknowledgments
 - Hat tip to anyone whose code was used
 - Inspiration
-- 📝 License
-- This project is MIT licensed.
+- This project is MIT licensed. 📝 License
+
+
