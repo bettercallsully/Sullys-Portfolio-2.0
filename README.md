@@ -30,7 +30,7 @@ Authors
 
 - GitHub: [@bettercallsully](https://github.com/bettercallsully)
 - Twitter: [@bettrcallsully](https://twitter.com/bettrcallsully)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/solomonelkelani)
+- LinkedIn: [Sully's Linkedin Profile](https://linkedin.com/in/solomonelkelani)
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
