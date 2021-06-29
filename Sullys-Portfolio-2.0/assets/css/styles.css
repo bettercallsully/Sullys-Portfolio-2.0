@@ -8,7 +8,7 @@
 
 /*===== Colores =====*/
 :root{
-  --first-color: #f56d1f;
+  --first-color: #ff5757;
   --second-color: #311b0e;
 }
 
@@ -329,7 +329,8 @@ img{
   font-weight: var(--font-semi);
   padding: 1rem;
   border-radius: .5rem;
-  border: 1.5px solid var(--second-color);
+  border: 1.5px solid;
+  color: #ff5757;
   outline: none;
   margin-bottom: var(--mb-4);
 }
@@ -344,7 +345,7 @@ img{
 
 /* ===== FOOTER =====*/
 .footer{
-  background-color: var(--second-color);
+  background-color: #ff5757;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
@@ -361,6 +362,14 @@ img{
   font-size: 1.5rem;
   color: #fff;
   margin: 0 var(--mb-2)
+}
+
+.footerlogo {
+  position: relative;
+  flex-direction: inherit;
+  right: -65px;
+
+
 }
 
 /* ===== MEDIA QUERIES=====*/
