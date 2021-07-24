@@ -457,3 +457,29 @@ img{
     right: 10%;
   }
 }
+
+.proskills {
+  padding: 0;
+  top: 10px;
+  bottom: 10px;
+  margin-bottom: 1cm;
+}
+
+.ed1:hover {
+  color: rgb(31, 232, 247);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 0.5rem;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+
+.ed2:hover {
+  color: rgb(31, 232, 247);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 0.5rem;
+  padding-left: 6px;
+  padding-right: 6px;
+}
